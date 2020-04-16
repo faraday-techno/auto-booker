@@ -47,7 +47,9 @@ Automate your daily workflow on Amazon Relay Dashboard by auto booking the loads
 
 *Think about this as a limiting the amount of stops. Example, if Max Stop is set to 3, Auto Book and Highlight will ignore loads more than 3 stops.*
 
+8. What happens when there is not any load but similar matches are available?
 
+*Extension will ignore loads under 'Similar Matches'.* 
 
 # Reported issues
 > Resolved issues (Submitted to web store, pending compliance review with google)
