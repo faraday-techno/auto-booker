@@ -43,6 +43,10 @@ Automate your daily workflow on Amazon Relay Dashboard by auto booking the loads
 
 *For how to install, please follow this link [How to install the extension](https://support.google.com/chrome_webstore/answer/2664769?hl=en).*
 
+7. How does the Max Stop feature works?
+
+*Think about this as a limiting the amount of stops. Example, if Max Stop is set to 3, Auto Book and Highlight will ignore loads more than 3 stops.*
+
 
 
 # Reported issues
