@@ -60,6 +60,10 @@ _Think about this as a limiting the amount of stops. Example, if Max Stop is set
 
 _Extension will ignore loads under 'Similar Matches'._
 
+9. Where can I see the extension in Action?
+
+_You can find product demonstration in our youtube channel. [Youtube](https://www.youtube.com/channel/UCJud09aGrK02h5tU_I4xUAQ)_
+
 # Reported issues
 
 > Resolved issues (Submitted to web store, pending compliance review with google)
