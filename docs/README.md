@@ -28,7 +28,7 @@ font-size: 1em;"><span>Add to chrome</span></a>
 
 # FAQ
 
-1. Does extension guarantees that all order will be booked?
+1. Does extension guarantees that all orders will be booked?
 
 _No. Auto Book feature is designed to automate clicks. It will guarantee that 'Book' and 'Confirm' buttons will be auto clicked when new load appears. However, there could be potential issues when booking the order which extension does not have control over such as 'Order has been modified', 'Order does not exist', 'Failed to fetch' etc. Anytime extension tries to book a order and fails, look at the lower right side of the dashboard for a reason to failure._
 
