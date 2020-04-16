@@ -1,6 +1,6 @@
 # Relay Auto Booker
 
-> Relay Auto Booker (version in the web store 2.0)
+> Relay Auto Booker (version in the web store 2.1)
 
 Automate your daily workflow on Amazon Relay Dashboard by auto booking the loads. Helps you get best possible deals by auto refreshing the load board. Also, can be configured to auto book loads based on the set filters. Boost your productivity by automating mundane tasks of refreshing the browser. Let the extension do the work for you. Please read the FAQ's to familiarize yourself before making the purchase.
 
@@ -64,8 +64,7 @@ _Extension will ignore loads under 'Similar Matches'._
 
 > Resolved issues (Submitted to web store, pending compliance review with google)
 
-- Highlight color is too dark to see the load information.
-- Auto Booker is booking loads from 'Similar Matches'.
+- None.
 
 > Outstanding issues (Developers are hands on working on these issues)
 
