@@ -1,1 +1,1 @@
-Relay Auto Booker docs
+Auto Booker docs
