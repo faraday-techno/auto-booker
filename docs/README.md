@@ -16,15 +16,21 @@ Automate your daily workflow on Amazon Relay Dashboard by auto booking the loads
 - Keyboard shortcuts (" ` " key can start and stop the refresher)
 
 <br/>
-<a href="https://chrome.google.com/webstore/detail/relay-auto-booker/ikdalniioengaefjkpkhfcgjemdfhpfg" target="_blank" style="padding: 16px 80px;
+<a href="https://chrome.google.com/webstore/detail/relay-auto-booker/ikdalniioengaefjkpkhfcgjemdfhpfg" target="_blank" style="padding: 4px 26px;
 background: #42b983;
 border-radius: 50px;
 margin: 10px;
 color: white;
 text-decoration: none;
-font-size: 1em;"><span>Add to chrome</span></a>
+font-size: 1em;
+position: relative;
+display: inline-flex;
+align-items: center;"><img 
+    src="./img/chrome.svg" 
+    alt="Chrome logo"
+    height="60"
+    width="60" /><span>Add to chrome</span></a>
 <br/><br/><br/><br/>
-
 
 # FAQ
 
