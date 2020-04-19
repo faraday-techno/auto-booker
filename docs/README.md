@@ -62,7 +62,7 @@ _For how to install, please follow this link [How to install the extension](http
 
 _Think about this as a limiting the amount of stops. Example, if Max Stop is set to 3, Auto Book and Highlight will ignore loads more than 3 stops._
 
-8. What happens when there are not any load but similar matches are available?
+8. What happens when there are not any loads but similar matches are available?
 
 _Extension will ignore loads under 'Similar Matches'._
 
@@ -79,7 +79,7 @@ _You can find product demonstration in our youtube channel. [Youtube](https://ww
 > Outstanding issues (Developers are hands on working on these issues)
 
 - Improve refresh rate.
-- Better communicate to user when Auto Booker fails to book.
+- 1-Click book feature.
 
 # Contact Us
 
