@@ -1,6 +1,6 @@
 # Relay Auto Booker
 
-> Relay Auto Booker (latest version in the web store 2.2)
+> Relay Auto Booker (latest version in the web store 3.0)
 
 Automate your daily workflow on Amazon Relay Dashboard by auto booking the loads. Helps you get best possible deals by auto refreshing the load board. Also, can be configured to auto book loads based on the set filters. Boost your productivity by automating mundane tasks of refreshing the browser. Let the extension do the work for you. Please read the FAQ's to familiarize yourself before making the purchase.
 
@@ -70,16 +70,55 @@ _Extension will ignore loads under 'Similar Matches'._
 
 _You can find product demonstration in our youtube channel. [Youtube](https://www.youtube.com/channel/UCJud09aGrK02h5tU_I4xUAQ)_
 
+# Permissions
+
+> A Note About Permissions
+
+_Occasionally we hear from users who want to know more about the permissions we request during installation of our browser extension. Here’s a brief explanation of the two permissions we request and why we need them._
+
+“Logged in user identity”
+
+_The reason we require this permission is to make sure you have the valid license. We will make a request to google identity service to get logged in user identity and check with google web store licensing service to make sure the logged in user has a valid license to use this product. Since, this is the paid extension, we would like to prevent users who tries to cheat the system. This process is standard across paid Chrome extensions and Relay Auto Booker does not capture or alter any personal information._
+
+_Questions about privacy? Please see our Privacy Policy._
+
+# Privacy Policy
+
+> Detailed privacy policy
+
+_We are committed to respecting and protecting the privacy rights of our users, and we created this Privacy Policy to give you notice of how your individual information will (and will not) be used by us. This Privacy Policy provides information on our policies and procedures regarding the use and disclosure of such information we receive from you._
+
+_By using or accessing any of the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will use and process your information in the following ways._
+
+_This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on this website. You are advised to consult this Privacy Policy regularly for any changes._
+
+1. How Do We Use Individual Information?
+
+_We use individual information mainly to verifying the license as stated in permissions. We do not sell or share any Personally Identifiable Information or other information about our users to any third parties._
+
+_If you contact us by email, we may keep a record of your contact information and correspondence, and may use your email address, and any information that you provide to us in your message, to respond to you._
+
+2. What Information Do We Collect and How Do We Collect It?
+
+_We do not collect nor store any personally identifiable user information. We may use your data to verify that you have a valid license as stated in permissions._
+
+3. How Do We Store Your Personal Information?
+
+_We do not store any user information in any external storage. We utilize browser storage for caching license information to reduce the number of calls we make to the identity server. Once extension is removed, information will automatically be destroyed._
+
+3. Contact Us
+
+_If you have any questions or concerns about this Privacy Policy, please contact us by e-mail at bravetechpro@gmail.com._
+
 # Reported issues
 
-> Resolved issues (Submitted to web store, pending compliance review with google)
+> Resolved issues.
 
-- None.
+  None.
 
-> Outstanding issues (Developers are hands on working on version 3.0)
+> Outstanding issues.
 
-- Improve refresh rate.
-- 1-Click book feature.
+  None.
 
 # Contact Us
 
