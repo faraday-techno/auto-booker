@@ -48,7 +48,7 @@ _Again, extension does not guarantee that all orders will be booked without fail
 
 4. Can you increase the refresh rate to more than five?
 
-_Update per second is relative to response we get from Amazon servers. Every refresh needs at least 200 milliseconds to resolve. That is why you see loading indicator on the screen. Increasing speed will cause loads fail to appear on the board. We are working on potential solutions to overcome this. Thank you for the patience._
+_Update per second is relative to response we get from Amazon servers. Every refresh needs at least 200 milliseconds to resolve. That is why you see loading indicator on the screen. Increasing speed will cause loads to fail to appear on the board. We are working on potential solutions to overcome this. Thank you for the patience._
 
 5. Can I use Relay Auto Booker in different machines at the same time and different Relay account?
 
