@@ -8,6 +8,7 @@ Automate your daily workflow on Amazon Relay Dashboard by auto booking the loads
 
 - Auto book loads based on set filters
 - Set maximum allowed stops
+- 1-Click book feature
 - Configurable auto refresh
 - Mark newly added loads
 - Sound notifications when new load is booked or appeared on the board
@@ -28,8 +29,8 @@ display: inline-flex;
 align-items: center;"><img 
     src="./img/chrome.svg" 
     alt="Chrome logo"
-    height="60"
-    width="60" /><span>Add to chrome</span></a>
+    height="50"
+    width="50" /><span>Add to chrome</span></a>
 <br/><br/><br/><br/>
 
 # FAQ
@@ -92,17 +93,17 @@ _By using or accessing any of the Services in any manner, you acknowledge that y
 
 _This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on this website. You are advised to consult this Privacy Policy regularly for any changes._
 
-1. How Do We Use Individual Information?
+1. How do we use individual information?
 
 _We use individual information mainly to verifying the license as stated in permissions. We do not sell or share any Personally Identifiable Information or other information about our users to any third parties._
 
 _If you contact us by email, we may keep a record of your contact information and correspondence, and may use your email address, and any information that you provide to us in your message, to respond to you._
 
-2. What Information Do We Collect and How Do We Collect It?
+2. What information do we collect and how do we collect it?
 
 _We do not collect nor store any personally identifiable user information. We may use your data to verify that you have a valid license as stated in permissions._
 
-3. How Do We Store Your Personal Information?
+3. How do we store your personal information?
 
 _We do not store any user information in any external storage. We utilize browser storage for caching license information to reduce the number of calls we make to the identity server. Once extension is removed, information will automatically be destroyed._
 
