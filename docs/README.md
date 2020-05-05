@@ -71,7 +71,17 @@ _Think about this as a limiting the amount of stops. Example, if Max Stop is set
 
 _Extension will ignore loads under 'Similar Matches'._
 
-10. Where can I see the extension in Action?
+10. What if I do not need Auto Book feature?
+
+_You can certainly use it as a refresher, Auto Book is just one feature._ 
+
+11. Does extension work on non active tab?
+
+_No. It only works on a Active Tab. However, you can have multiple instance of browsers open so you can have multiple Active Tabs at the same time._
+
+_You can certainly use it as a refresher, Auto Book is just one feature._ 
+
+12. Where can I see the extension in Action?
 
 _You can find product demonstration in our youtube channel. [Youtube](https://www.youtube.com/channel/UCJud09aGrK02h5tU_I4xUAQ)_
 
