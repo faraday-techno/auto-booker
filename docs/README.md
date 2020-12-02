@@ -125,7 +125,7 @@ _We do not store any user information in any external storage. We utilize browse
 
 3. Contact Us
 
-_If you have any questions or concerns about this Privacy Policy, please contact us by e-mail at bravetechpro@gmail.com._
+_If you have any questions or concerns about this Privacy Policy, please contact us by e-mail at bravetechpro@gmail.com. Don't forget to include order number in your emails for faster processing._
 
 # Reported issues
 
